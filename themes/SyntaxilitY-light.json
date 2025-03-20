@@ -2,10 +2,10 @@
 	"name": "SyntaxilitY Light Theme",
     "type": "light",
     "colors": {
-        "editor.background": "#171717",
-        "editor.foreground": "#e1e0e0",
-        "activityBarBadge.background": "#171717",
-        "sideBarTitle.foreground": "#e1e0e0"
+        "editor.background": "#FFFFFF",
+        "editor.foreground": "#000000",
+        "activityBarBadge.background": "#FFFFFF",
+        "sideBarTitle.foreground": "#000000"
     },
 	"tokenColors": [
 		{
