@@ -34,7 +34,7 @@ You can install this theme by following these steps:
 * Tariq Mehmood
 
 ### Portfolio Websites
-[Portfolio website - Old](https://tariqmehmood1004.github.io/)
-[Portfolio website - Latest](https://tariq-mehmood-portfolio.vercel.app/)
+- [Portfolio website - Old](https://tariqmehmood1004.github.io/)
+- [Portfolio website - Latest](https://tariq-mehmood-portfolio.vercel.app/)
 
 **Enjoy!**
