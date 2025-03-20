@@ -1,6 +1,6 @@
 {
-	"name": "SyntaxilitY Dark Theme",
-	"type": "dark",
+	"name": "SyntaxilitY Light Theme",
+    "type": "light",
     "colors": {
         "editor.background": "#171717",
         "editor.foreground": "#e1e0e0",

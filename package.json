@@ -23,7 +23,14 @@
       {
         "label": "SyntaxilitY Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/SyntaxilitY Theme-color-theme.json"
+        "path": "./themes/SyntaxilitY Theme-color-theme.json",
+        "type": "dark"
+      },
+      {
+        "label": "SyntaxilitY Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/SyntaxilitY-light.json",
+        "type": "light"
       }
     ]
   }
