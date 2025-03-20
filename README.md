@@ -10,27 +10,19 @@ You can install this theme by following these steps:
 4. Click on the Install button next to the SyntaxilitY Theme extension.
 
 ### Author
-
 **Tariq Mehmood**
 
+### Information
 **Contact:** johnbrrighte@engineer.com
-
 **GitHub:** [TariqMehmood1004](https://github.com/TariqMehmood1004)
-
 **License:** [MIT](https://opensource.org/licenses/MIT)
-
 **Repository:** [SyntaxilitY Theme](https://github.com/TariqMehmood1004/syntaxility-color-theme.git)
-
 **Homepage:** [SyntaxilitY Theme](https://github.com/TariqMehmood1004/syntaxility-color-theme.git)
-
 **Version:** 1.0.2
-
 **Date:** 2025-03-20
-
 **Status:** Stable
 
 **Contributors:**
-
 * Tariq Mehmood
 
 ### Portfolio Websites

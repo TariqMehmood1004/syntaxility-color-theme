@@ -1,11 +1,21 @@
 {
 	"name": "SyntaxilitY Theme",
-	"colors": {
-		"editor.background": "#171717",
-		"editor.foreground": "#e1e0e0",
-		"activityBarBadge.background": "#171717",
-		"sideBarTitle.foreground": "#e1e0e0"
-	},
+    "type": "dark", // Default type
+    "colors": {
+        "editor.background": "#171717",
+        "editor.foreground": "#e1e0e0",
+        "activityBarBadge.background": "#171717",
+        "sideBarTitle.foreground": "#e1e0e0"
+    },
+    "light": {
+        "type": "light",
+        "colors": {
+            "editor.background": "#FFFFFF",
+            "editor.foreground": "#000000",
+            "activityBarBadge.background": "#FFFFFF",
+            "sideBarTitle.foreground": "#000000"
+        }
+    },
 	"tokenColors": [
 		{
 			"name": "Comment",
