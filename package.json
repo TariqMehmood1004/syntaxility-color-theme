@@ -1,8 +1,8 @@
 {
   "name": "syntaxility-color-theme",
   "displayName": "SyntaxilitY Theme",
-  "description": "SyntaxilitY Theme is modern dark color theme with vibrant colors, and vibrant syntax highlighting. SyntaxilitY Theme is based on the original SyntaxilitY Theme by @SyntaxilitY. SyntaxilitY Theme is available on the Visual Studio Code Marketplace.",
-  "version": "1.0.6",
+  "description": "SyntaxilitY Theme is modern dark/light color theme with vibrant colors, and vibrant syntax highlighting. SyntaxilitY Theme is based on the original SyntaxilitY Theme by @SyntaxilitY. SyntaxilitY Theme is available on the Visual Studio Code Marketplace.",
+  "version": "1.0.7",
   "engines": {
     "vscode": ">=1.50.0"
   },
@@ -21,13 +21,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "SyntaxilitY Theme",
+        "label": "SyntaxilitY Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/SyntaxilitY Theme-color-theme.json",
         "type": "dark"
       },
       {
-        "label": "SyntaxilitY Light Theme",
+        "label": "SyntaxilitY Light",
         "uiTheme": "vs",
         "path": "./themes/SyntaxilitY-light.json",
         "type": "light"
