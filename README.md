@@ -1,16 +1,40 @@
-# syntaxility-color-theme README
+## How to Use This Theme
 
-## Working with Markdown
+### Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+You can install this theme by following these steps:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the Sidebar or pressing `Ctrl+Shift+X` (Windows, Linux) or `Cmd+Shift+X` (macOS).
+3. Search for "SyntaxilitY Theme" in the Extensions view.
+4. Click on the Install button next to the SyntaxilitY Theme extension.
 
-## For more information
+### Author
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**Tariq Mehmood**
+
+**Contact:** johnbrrighte@engineer.com
+
+**GitHub:** [TariqMehmood1004](https://github.com/TariqMehmood1004)
+
+**License:** [MIT](https://opensource.org/licenses/MIT)
+
+**Repository:** [SyntaxilitY Theme](https://github.com/TariqMehmood1004/syntaxility-color-theme.git)
+
+**Homepage:** [SyntaxilitY Theme](https://github.com/TariqMehmood1004/syntaxility-color-theme.git)
+
+**Version:** 1.0.2
+
+**Date:** 2025-03-20
+
+**Status:** Stable
+
+**Contributors:**
+
+* Tariq Mehmood
+
+### Portfolio Websites
+[Portfolio website - Old](https://tariqmehmood1004.github.io/)
+[Portfolio website - Latest](https://tariq-mehmood-portfolio.vercel.app/)
 
 **Enjoy!**
